@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4ec0266c993adf7419714ff943cb5680
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bBoxHandleMat: {instanceID: 0}
+  - bBoxHandleMatGrab: {instanceID: 0}
+  - bBoxScaleHandlePrefab: {instanceID: 0}
+  - bBoxScaleHandleSlatePrefab: {instanceID: 0}
+  - bBoxRotateHandlePrefab: {instanceID: 0}
+  - defaultMat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
